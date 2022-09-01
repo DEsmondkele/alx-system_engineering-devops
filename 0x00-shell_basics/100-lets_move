@@ -1,0 +1,2 @@
+#!/bin/bamv 
+ mv [[:upper:]]* /tmp/u
