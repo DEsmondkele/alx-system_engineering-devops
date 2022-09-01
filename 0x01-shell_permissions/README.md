@@ -1,2 +1,2 @@
-#!/bin/bash
- create an executable script
+creating an exec scripts
+ su -l username
