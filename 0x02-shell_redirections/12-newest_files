@@ -1,1 +1,1 @@
-- e#!/bin/bash\nls -1t | head -n 10
+- e#!/bin/bash\nls -1t | tail -n 10
