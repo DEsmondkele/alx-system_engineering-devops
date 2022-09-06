@@ -1,1 +1,1 @@
-- e #!/bin/bash\ngrep -i root /etc/passwd
+- e #!/bin/bash\ngrep root /etc/passwd
