@@ -1,1 +1,0 @@
-- e #!/bin/bash\ngrep -i root /etc/passwd
